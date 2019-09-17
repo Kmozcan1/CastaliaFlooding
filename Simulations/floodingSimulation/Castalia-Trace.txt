@@ -1,0 +1,615 @@
+
+0.003536244016   SN.node[1].Application                   startup
+0.003536244016   SN.node[1].Application                   Packet Spacing: 0.1
+0.003536244016   SN.node[1].Application                   Packets per node: 10
+0.003536244016   SN.node[1].Application                   Interval: 1
+0.014545237179   SN.node[4].Application                   startup
+0.014545237179   SN.node[4].Application                   Packet Spacing: 0.1
+0.014545237179   SN.node[4].Application                   Packets per node: 10
+0.014545237179   SN.node[4].Application                   Interval: 4
+0.027539895218   SN.node[0].Application                   startup
+0.027539895218   SN.node[0].Application                   Packet Spacing: 0.1
+0.027539895218   SN.node[0].Application                   Packets per node: 10
+0.027539895218   SN.node[0].Application                   Interval: 0
+0.035407391109   SN.node[2].Application                   startup
+0.035407391109   SN.node[2].Application                   Packet Spacing: 0.1
+0.035407391109   SN.node[2].Application                   Packets per node: 10
+0.035407391109   SN.node[2].Application                   Interval: 2
+0.041997452115   SN.node[3].Application                   startup
+0.041997452115   SN.node[3].Application                   Packet Spacing: 0.1
+0.041997452115   SN.node[3].Application                   Packets per node: 10
+0.041997452115   SN.node[3].Application                   Interval: 3
+1.003543042981   SN.node[1].Application                   
+1.003543042981   SN.node[1].Application                   Sending packet 1-0 Total packets sent: 0
+1.00970704298    SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.00970704298    SN.node[4].Communication.Routing         Incoming packet to 4 from 1
+1.015871042979   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.015871042979   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.015871042979   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.022035042978   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.022035042978   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+1.022035042978   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+1.022035042978   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.022035042978   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+1.022035042978   SN.node[0].Application                   Packet 1-0 has been delivered to the sink
+1.022035042978   SN.node[0].Application                   Total packets collected by the sink: 1
+
+1.103543722877   SN.node[1].Application                   
+1.103543722877   SN.node[1].Application                   Sending packet 1-1 Total packets sent: 1
+1.109707722876   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.115871722875   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.115871722875   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.115871722875   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+1.122035722874   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.122035722874   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+1.122035722874   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+1.122035722874   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.122035722874   SN.node[0].Application                   Packet 1-1 has been delivered to the sink
+1.122035722874   SN.node[0].Application                   Total packets collected by the sink: 2
+
+1.128199722873   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+1.128199722873   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+1.128199722873   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.128199722873   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+1.203544402773   SN.node[1].Application                   
+1.203544402773   SN.node[1].Application                   Sending packet 1-2 Total packets sent: 2
+1.209708402772   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.215872402771   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.215872402771   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.215872402771   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+1.22203640277    SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.22203640277    SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+1.22203640277    SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+1.22203640277    SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.22203640277    SN.node[0].Application                   Packet 1-2 has been delivered to the sink
+1.22203640277    SN.node[0].Application                   Total packets collected by the sink: 3
+
+1.228200402769   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+1.228200402769   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+1.228200402769   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.228200402769   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+1.303545082669   SN.node[1].Application                   
+1.303545082669   SN.node[1].Application                   Sending packet 1-3 Total packets sent: 3
+1.309709082668   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.309709082668   SN.node[4].Communication.Routing         Incoming packet to 4 from 1
+1.315873082667   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.315873082667   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.315873082667   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.322037082666   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.322037082666   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+1.322037082666   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+1.322037082666   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.322037082666   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+1.322037082666   SN.node[0].Application                   Packet 1-3 has been delivered to the sink
+1.322037082666   SN.node[0].Application                   Total packets collected by the sink: 4
+
+1.403545762565   SN.node[1].Application                   
+1.403545762565   SN.node[1].Application                   Sending packet 1-4 Total packets sent: 4
+1.409709762564   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.415873762563   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.415873762563   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.415873762563   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+1.422037762562   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.422037762562   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+1.422037762562   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+1.422037762562   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.422037762562   SN.node[0].Application                   Packet 1-4 has been delivered to the sink
+1.422037762562   SN.node[0].Application                   Total packets collected by the sink: 5
+
+1.428201762561   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+1.428201762561   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+1.428201762561   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.428201762561   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+1.503546442461   SN.node[1].Application                   
+1.503546442461   SN.node[1].Application                   Sending packet 1-5 Total packets sent: 5
+1.50971044246    SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.515874442459   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.515874442459   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.515874442459   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+1.522038442458   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.522038442458   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+1.522038442458   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+1.522038442458   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.522038442458   SN.node[0].Application                   Packet 1-5 has been delivered to the sink
+1.522038442458   SN.node[0].Application                   Total packets collected by the sink: 6
+
+1.528202442457   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+1.528202442457   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+1.528202442457   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.528202442457   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+1.603547122357   SN.node[1].Application                   
+1.603547122357   SN.node[1].Application                   Sending packet 1-6 Total packets sent: 6
+1.609711122356   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.615875122355   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.615875122355   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.615875122355   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+1.622039122354   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.622039122354   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+1.622039122354   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+1.622039122354   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.622039122354   SN.node[0].Application                   Packet 1-6 has been delivered to the sink
+1.622039122354   SN.node[0].Application                   Total packets collected by the sink: 7
+
+1.628203122353   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+1.628203122353   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+1.628203122353   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.628203122353   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+1.703547802253   SN.node[1].Application                   
+1.703547802253   SN.node[1].Application                   Sending packet 1-7 Total packets sent: 7
+1.709711802252   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.715875802251   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.715875802251   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.715875802251   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+1.72203980225    SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.72203980225    SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+1.72203980225    SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+1.72203980225    SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.72203980225    SN.node[0].Application                   Packet 1-7 has been delivered to the sink
+1.72203980225    SN.node[0].Application                   Total packets collected by the sink: 8
+
+1.728203802249   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+1.728203802249   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+1.728203802249   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.728203802249   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+1.803548482149   SN.node[1].Application                   
+1.803548482149   SN.node[1].Application                   Sending packet 1-8 Total packets sent: 8
+1.809712482148   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.815876482147   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.815876482147   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.815876482147   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+1.822040482146   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.822040482146   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.822040482146   SN.node[0].Application                   Packet 1-8 has been delivered to the sink
+1.822040482146   SN.node[0].Application                   Total packets collected by the sink: 9
+
+1.828204482145   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+1.828204482145   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+1.828204482145   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.828204482145   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+1.903549162045   SN.node[1].Application                   
+1.903549162045   SN.node[1].Application                   Sending packet 1-9 Total packets sent: 9
+1.909713162044   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+1.915877162043   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+1.915877162043   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+1.915877162043   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+1.922041162042   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+1.922041162042   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+1.922041162042   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+1.922041162042   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+1.922041162042   SN.node[0].Application                   Packet 1-9 has been delivered to the sink
+1.922041162042   SN.node[0].Application                   Total packets collected by the sink: 10
+
+1.928205162041   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+1.928205162041   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+1.928205162041   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+1.928205162041   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+2.035509776936   SN.node[2].Application                   
+2.035509776936   SN.node[2].Application                   Sending packet 2-0 Total packets sent: 0
+2.041673776935   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.041673776935   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+2.041673776935   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.041673776935   SN.node[0].Application                   Packet 2-0 has been delivered to the sink
+2.041673776935   SN.node[0].Application                   Total packets collected by the sink: 11
+
+2.047837776934   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+2.047837776934   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+2.135514896227   SN.node[2].Application                   
+2.135514896227   SN.node[2].Application                   Sending packet 2-1 Total packets sent: 1
+2.141678896226   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.141678896226   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+2.141678896226   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.141678896226   SN.node[0].Application                   Packet 2-1 has been delivered to the sink
+2.141678896226   SN.node[0].Application                   Total packets collected by the sink: 12
+
+2.147842896225   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+2.154006896224   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+2.154006896224   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+2.235520015518   SN.node[2].Application                   
+2.235520015518   SN.node[2].Application                   Sending packet 2-2 Total packets sent: 2
+2.241684015517   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.241684015517   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+2.241684015517   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.241684015517   SN.node[0].Application                   Packet 2-2 has been delivered to the sink
+2.241684015517   SN.node[0].Application                   Total packets collected by the sink: 13
+
+2.247848015516   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+2.247848015516   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+2.335525134809   SN.node[2].Application                   
+2.335525134809   SN.node[2].Application                   Sending packet 2-3 Total packets sent: 3
+2.341689134808   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.341689134808   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+2.341689134808   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.341689134808   SN.node[0].Application                   Packet 2-3 has been delivered to the sink
+2.341689134808   SN.node[0].Application                   Total packets collected by the sink: 14
+
+2.347853134807   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+2.354017134806   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+2.354017134806   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+2.4355302541     SN.node[2].Application                   
+2.4355302541     SN.node[2].Application                   Sending packet 2-4 Total packets sent: 4
+2.441694254099   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.441694254099   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+2.441694254099   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.441694254099   SN.node[0].Application                   Packet 2-4 has been delivered to the sink
+2.441694254099   SN.node[0].Application                   Total packets collected by the sink: 15
+
+2.447858254098   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+2.447858254098   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+2.447858254098   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+2.454022254097   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+2.454022254097   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+2.535535373391   SN.node[2].Application                   
+2.535535373391   SN.node[2].Application                   Sending packet 2-5 Total packets sent: 5
+2.54169937339    SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.54169937339    SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.54169937339    SN.node[0].Application                   Packet 2-5 has been delivered to the sink
+2.54169937339    SN.node[0].Application                   Total packets collected by the sink: 16
+
+2.547863373389   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+2.547863373389   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+2.547863373389   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+2.547863373389   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+2.635540492682   SN.node[2].Application                   
+2.635540492682   SN.node[2].Application                   Sending packet 2-6 Total packets sent: 6
+2.641704492681   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.641704492681   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+2.641704492681   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.641704492681   SN.node[0].Application                   Packet 2-6 has been delivered to the sink
+2.641704492681   SN.node[0].Application                   Total packets collected by the sink: 17
+
+2.64786849268    SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+2.654032492679   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+2.654032492679   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+2.735545611973   SN.node[2].Application                   
+2.735545611973   SN.node[2].Application                   Sending packet 2-7 Total packets sent: 7
+2.741709611972   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.741709611972   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+2.741709611972   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.741709611972   SN.node[0].Application                   Packet 2-7 has been delivered to the sink
+2.741709611972   SN.node[0].Application                   Total packets collected by the sink: 18
+
+2.747873611971   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+2.747873611971   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+2.747873611971   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+2.75403761197    SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+2.75403761197    SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+2.75403761197    SN.node[4].Communication.Routing         Incoming packet to 4 from 1
+2.75403761197    SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+2.835550731264   SN.node[2].Application                   
+2.835550731264   SN.node[2].Application                   Sending packet 2-8 Total packets sent: 8
+2.841714731263   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.841714731263   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+2.841714731263   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.841714731263   SN.node[0].Application                   Packet 2-8 has been delivered to the sink
+2.841714731263   SN.node[0].Application                   Total packets collected by the sink: 19
+
+2.847878731262   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+2.847878731262   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+2.935555850555   SN.node[2].Application                   
+2.935555850555   SN.node[2].Application                   Sending packet 2-9 Total packets sent: 9
+2.941719850554   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+2.941719850554   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+2.941719850554   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+2.941719850554   SN.node[0].Application                   Packet 2-9 has been delivered to the sink
+2.941719850554   SN.node[0].Application                   Total packets collected by the sink: 20
+
+2.947883850553   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+2.947883850553   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+2.947883850553   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+2.954047850552   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+2.954047850552   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.041979457737   SN.node[3].Application                   
+3.041979457737   SN.node[3].Application                   Sending packet 3-0 Total packets sent: 0
+3.048143457736   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.048143457736   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.054307457735   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+3.054307457735   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.054307457735   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+3.054307457735   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.054307457735   SN.node[0].Application                   Packet 3-0 has been delivered to the sink
+3.054307457735   SN.node[0].Application                   Total packets collected by the sink: 21
+
+3.060471457734   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.060471457734   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.060471457734   SN.node[1].Communication.Routing         Incoming packet to 1 from 4
+3.060471457734   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+3.060471457734   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.060471457734   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.141978857924   SN.node[3].Application                   
+3.141978857924   SN.node[3].Application                   Sending packet 3-1 Total packets sent: 1
+3.148142857923   SN.node[0].Communication.Routing         Incoming packet to 0 from 3
+3.148142857923   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.148142857923   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.148142857923   SN.node[0].Application                   Packet 3-1 has been delivered to the sink
+3.148142857923   SN.node[0].Application                   Total packets collected by the sink: 22
+
+3.154306857922   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+3.154306857922   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.154306857922   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+3.154306857922   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.154306857922   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.160470857921   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.160470857921   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.160470857921   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.160470857921   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.241978258111   SN.node[3].Application                   
+3.241978258111   SN.node[3].Application                   Sending packet 3-2 Total packets sent: 2
+3.24814225811    SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.24814225811    SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.254306258109   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+3.254306258109   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.254306258109   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+3.254306258109   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.254306258109   SN.node[0].Application                   Packet 3-2 has been delivered to the sink
+3.254306258109   SN.node[0].Application                   Total packets collected by the sink: 23
+
+3.260470258108   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.260470258108   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.260470258108   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.260470258108   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.341977658298   SN.node[3].Application                   
+3.341977658298   SN.node[3].Application                   Sending packet 3-3 Total packets sent: 3
+3.348141658297   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.348141658297   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.354305658296   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+3.354305658296   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.354305658296   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+3.354305658296   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.354305658296   SN.node[0].Application                   Packet 3-3 has been delivered to the sink
+3.354305658296   SN.node[0].Application                   Total packets collected by the sink: 24
+
+3.360469658295   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.360469658295   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.360469658295   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.360469658295   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.441977058485   SN.node[3].Application                   
+3.441977058485   SN.node[3].Application                   Sending packet 3-4 Total packets sent: 4
+3.448141058484   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.448141058484   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.454305058483   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+3.454305058483   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.454305058483   SN.node[0].Application                   Packet 3-4 has been delivered to the sink
+3.454305058483   SN.node[0].Application                   Total packets collected by the sink: 25
+
+3.460469058482   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.460469058482   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.460469058482   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.460469058482   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.541976458672   SN.node[3].Application                   
+3.541976458672   SN.node[3].Application                   Sending packet 3-5 Total packets sent: 5
+3.548140458671   SN.node[0].Communication.Routing         Incoming packet to 0 from 3
+3.548140458671   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.548140458671   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.548140458671   SN.node[0].Application                   Packet 3-5 has been delivered to the sink
+3.548140458671   SN.node[0].Application                   Total packets collected by the sink: 26
+
+3.55430445867    SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+3.55430445867    SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.55430445867    SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+3.55430445867    SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.55430445867    SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.560468458669   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.560468458669   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.560468458669   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.560468458669   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.641975858859   SN.node[3].Application                   
+3.641975858859   SN.node[3].Application                   Sending packet 3-6 Total packets sent: 6
+3.648139858858   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.648139858858   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.654303858857   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+3.654303858857   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.654303858857   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+3.654303858857   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.654303858857   SN.node[0].Application                   Packet 3-6 has been delivered to the sink
+3.654303858857   SN.node[0].Application                   Total packets collected by the sink: 27
+
+3.660467858856   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.660467858856   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.660467858856   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.660467858856   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.741975259046   SN.node[3].Application                   
+3.741975259046   SN.node[3].Application                   Sending packet 3-7 Total packets sent: 7
+3.748139259045   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.748139259045   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.754303259044   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+3.754303259044   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.754303259044   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+3.754303259044   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.754303259044   SN.node[0].Application                   Packet 3-7 has been delivered to the sink
+3.754303259044   SN.node[0].Application                   Total packets collected by the sink: 28
+
+3.760467259043   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.760467259043   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.760467259043   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.760467259043   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.841974659233   SN.node[3].Application                   
+3.841974659233   SN.node[3].Application                   Sending packet 3-8 Total packets sent: 8
+3.848138659232   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.848138659232   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.854302659231   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+3.854302659231   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.854302659231   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+3.854302659231   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.854302659231   SN.node[0].Application                   Packet 3-8 has been delivered to the sink
+3.854302659231   SN.node[0].Application                   Total packets collected by the sink: 29
+
+3.86046665923    SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.86046665923    SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+3.86046665923    SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.86046665923    SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.94197405942    SN.node[3].Application                   
+3.94197405942    SN.node[3].Application                   Sending packet 3-9 Total packets sent: 9
+3.948138059419   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+3.948138059419   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+3.954302059418   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+3.954302059418   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+3.954302059418   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+3.960466059417   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+3.960466059417   SN.node[1].Communication.Routing         Incoming packet to 1 from 4
+3.960466059417   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+3.960466059417   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+3.960466059417   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+3.960466059417   SN.node[0].Application                   Packet 3-9 has been delivered to the sink
+3.960466059417   SN.node[0].Application                   Total packets collected by the sink: 30
+
+4.01460225913    SN.node[4].Application                   
+4.01460225913    SN.node[4].Application                   Sending packet 4-0 Total packets sent: 0
+4.020766259129   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.020766259129   SN.node[1].Communication.Routing         Incoming packet to 1 from 4
+4.020766259129   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.020766259129   SN.node[0].Application                   Packet 4-0 has been delivered to the sink
+4.020766259129   SN.node[0].Application                   Total packets collected by the sink: 31
+
+4.026930259128   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+4.026930259128   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.026930259128   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.026930259128   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.026930259128   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.033094259127   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+4.033094259127   SN.node[1].Communication.Routing         Discarding the duplicate packet in node 1
+4.033094259127   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+4.033094259127   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+4.114603684678   SN.node[4].Application                   
+4.114603684678   SN.node[4].Application                   Sending packet 4-1 Total packets sent: 1
+4.120767684677   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.120767684677   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.120767684677   SN.node[0].Application                   Packet 4-1 has been delivered to the sink
+4.120767684677   SN.node[0].Application                   Total packets collected by the sink: 32
+
+4.126931684676   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.126931684676   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.126931684676   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.126931684676   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.214605110226   SN.node[4].Application                   
+4.214605110226   SN.node[4].Application                   Sending packet 4-2 Total packets sent: 2
+4.220769110225   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.220769110225   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.220769110225   SN.node[0].Application                   Packet 4-2 has been delivered to the sink
+4.220769110225   SN.node[0].Application                   Total packets collected by the sink: 33
+
+4.226933110224   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.226933110224   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.226933110224   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+4.226933110224   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.226933110224   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.233097110223   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+4.233097110223   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+4.233097110223   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+4.239261110222   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+4.239261110222   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+4.314606535774   SN.node[4].Application                   
+4.314606535774   SN.node[4].Application                   Sending packet 4-3 Total packets sent: 3
+4.320770535773   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.320770535773   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.320770535773   SN.node[0].Application                   Packet 4-3 has been delivered to the sink
+4.320770535773   SN.node[0].Application                   Total packets collected by the sink: 34
+
+4.326934535772   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.326934535772   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.326934535772   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+4.326934535772   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.326934535772   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.333098535771   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+4.333098535771   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+4.333098535771   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+4.33926253577    SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+4.33926253577    SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+4.414607961322   SN.node[4].Application                   
+4.414607961322   SN.node[4].Application                   Sending packet 4-4 Total packets sent: 4
+4.420771961321   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.420771961321   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.420771961321   SN.node[0].Application                   Packet 4-4 has been delivered to the sink
+4.420771961321   SN.node[0].Application                   Total packets collected by the sink: 35
+
+4.42693596132    SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.42693596132    SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.42693596132    SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+4.42693596132    SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.42693596132    SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.433099961319   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+4.433099961319   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+4.433099961319   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+4.439263961318   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+4.439263961318   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+4.51460938687    SN.node[4].Application                   
+4.51460938687    SN.node[4].Application                   Sending packet 4-5 Total packets sent: 5
+4.520773386869   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.520773386869   SN.node[1].Communication.Routing         Incoming packet to 1 from 4
+4.520773386869   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.520773386869   SN.node[0].Application                   Packet 4-5 has been delivered to the sink
+4.520773386869   SN.node[0].Application                   Total packets collected by the sink: 36
+
+4.526937386868   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.526937386868   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.526937386868   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.526937386868   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.614610812418   SN.node[4].Application                   
+4.614610812418   SN.node[4].Application                   Sending packet 4-6 Total packets sent: 6
+4.620774812417   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.620774812417   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.620774812417   SN.node[0].Application                   Packet 4-6 has been delivered to the sink
+4.620774812417   SN.node[0].Application                   Total packets collected by the sink: 37
+
+4.626938812416   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.626938812416   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.626938812416   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+4.626938812416   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.626938812416   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.633102812415   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+4.633102812415   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+4.633102812415   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+4.639266812414   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+4.639266812414   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+4.714612237966   SN.node[4].Application                   
+4.714612237966   SN.node[4].Application                   Sending packet 4-7 Total packets sent: 7
+4.720776237965   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.720776237965   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.720776237965   SN.node[0].Application                   Packet 4-7 has been delivered to the sink
+4.720776237965   SN.node[0].Application                   Total packets collected by the sink: 38
+
+4.726940237964   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.726940237964   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.726940237964   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+4.726940237964   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.726940237964   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.733104237963   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+4.733104237963   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+4.733104237963   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+4.739268237962   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+4.739268237962   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+4.814613663514   SN.node[4].Application                   
+4.814613663514   SN.node[4].Application                   Sending packet 4-8 Total packets sent: 8
+4.820777663513   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.820777663513   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.820777663513   SN.node[0].Application                   Packet 4-8 has been delivered to the sink
+4.820777663513   SN.node[0].Application                   Total packets collected by the sink: 39
+
+4.826941663512   SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.826941663512   SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.826941663512   SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+4.826941663512   SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.826941663512   SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.833105663511   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+4.833105663511   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+4.833105663511   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+4.83926966351    SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+4.83926966351    SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
+4.83926966351    SN.node[4].Communication.Routing         Incoming packet to 4 from 1
+4.83926966351    SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.914615089062   SN.node[4].Application                   
+4.914615089062   SN.node[4].Application                   Sending packet 4-9 Total packets sent: 9
+4.920779089061   SN.node[0].Communication.Routing         Incoming packet to 0 from 4
+4.920779089061   SN.node[2].Communication.Routing         Incoming packet to 2 from 4
+4.920779089061   SN.node[0].Application                   Packet 4-9 has been delivered to the sink
+4.920779089061   SN.node[0].Application                   Total packets collected by the sink: 40
+
+4.92694308906    SN.node[0].Communication.Routing         Incoming packet to 0 from 2
+4.92694308906    SN.node[0].Communication.Routing         Discarding the duplicate packet in node 0
+4.92694308906    SN.node[3].Communication.Routing         Incoming packet to 3 from 2
+4.92694308906    SN.node[4].Communication.Routing         Incoming packet to 4 from 2
+4.92694308906    SN.node[4].Communication.Routing         Discarding the duplicate packet in node 4
+4.933107089059   SN.node[1].Communication.Routing         Incoming packet to 1 from 3
+4.933107089059   SN.node[2].Communication.Routing         Incoming packet to 2 from 3
+4.933107089059   SN.node[2].Communication.Routing         Discarding the duplicate packet in node 2
+4.939271089058   SN.node[3].Communication.Routing         Incoming packet to 3 from 1
+4.939271089058   SN.node[3].Communication.Routing         Discarding the duplicate packet in node 3
